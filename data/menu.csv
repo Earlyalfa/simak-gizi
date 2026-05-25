@@ -1,0 +1,51 @@
+﻿No,Nama,Lemak,Karbohidrat,Protein,Kalori,Kategori
+1,nasi,0.28,27.9,2.66,129,Karbohidrat
+2,nasi kuning,0.27,32.96,2.99,150,Karbohidrat
+3,mie,2.06,25.01,4.51,137,Karbohidrat
+4,kentang goreng,14.06,35.66,3.48,274,Karbohidrat
+5,ayam crispy,17.99,7.6,17.61,263,Protein 
+6,ayam goreng,14.55,10.76,21.93,260,Protein 
+7,ayam kecap,11.96,9.41,18.82,233,Protein 
+8,ayam kentucky,17.99,7.6,17.61,263,Protein 
+9,ayam suwir,2.07,0,21.86,122,Protein 
+10,sate ,2.22,0.73,2.93,34,Protein 
+11,udang goreng,14.64,27.57,10.58,287,Protein 
+12,nugget,3.01,2.61,2.49,48,Protein 
+13,ikan kembung,9.36,0,19.32,167,Protein 
+14,pentol,15.88,17.23,13.74,269,Protein 
+15,telur balado,5.75,1.22,3.57,71,Protein 
+16,telur dadar,7.33,0.49,6.48,93,Protein 
+17,telur rebus,5.28,0.56,6.26,77,Protein 
+18,tahu crispy,2.62,1.36,2.23,35,Protein 
+19,tahu goreng,2.62,1.36,2.23,35,Protein 
+20,tempe goreng,2.28,1.79,2,34,Protein 
+21,perkedel,1.12,2.48,0.46,21,Protein 
+22,brokoli,2.69,6.98,2.3,54,Sayur
+23,capcay,2.59,9.67,1.58,67,Sayur
+24,edamame,4.45,6.53,8.47,81,Sayur
+25,jagung rebus,0.74,22.33,3.11,93,Sayur
+26,kacang panjang,0.12,7.13,1.82,31,Sayur
+27,sayur sop,1.93,11.98,2.12,72,Sayur
+28,selada,0.14,2.97,0.9,14,Sayur
+29,timun,0.11,3.63,0.65,15,Sayur
+30,tomat,0.25,4.82,1.08,22,Sayur
+31,tumis buncis,3.45,8.15,1.97,65,Sayur
+32,tumis kangkung,8.71,3.99,2.56,98,Sayur
+33,tumis wortel,2.43,5.45,1.15,45,Sayur
+34,kerupuk,2.29,3.26,0.43,35,Pelengkap
+35,sambal,0.41,1.56,1.37,15,Pelengkap
+36,saus,0,6,0,25,Pelengkap
+37,susu,2.37,12.18,8.22,102,Minuman
+38,susu UHT,2.58,6.07,4.24,64,Minuman
+39,anggur,0.16,18.1,0.72,69,Buah
+40,apel,0.23,19.06,0.36,72,Buah
+41,belimbing,0.33,6.73,1.04,31,Buah
+42,buah naga,0.38,12.38,0.78,51,Buah
+43,jeruk,0.16,15.39,1.23,62,Buah
+44,jeruk mandarin,0.22,9.34,9.57,37,Buah
+45,kelengkeng,0.01,1.21,0.1,5,Buah
+46,manggis,0.58,17.91,0.41,73,Buah
+47,melon,0.19,8.16,0.84,34,Buah
+48,pir,0.12,15.46,0.38,58,Buah
+49,pisang,0.33,22.84,1.09,89,Buah
+50,semangka,0.15,7.55,0.61,30,Buah
