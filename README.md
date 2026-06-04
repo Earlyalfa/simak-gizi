@@ -1,6 +1,6 @@
-# SIMAK-Gizi: Analisis Gizi Seimbang (Makan Bergizi Gratis)
+# NutriSi: Analisis Gizi Seimbang (Makan Bergizi Gratis)
 
-Simak-Gizi adalah sebuah platform berbasis web yang dirancang untuk mendukung standardisasi porsi gizi dalam program nasional Makan Bergizi Gratis (MBG). Dengan memanfaatkan teknologi Computer Vision, sistem ini mampu melakukan pemindaian otomatis (Scan) terhadap foto menu makanan dalam *ompreng* untuk mengevaluasi kelayakan gizi makro secara real-time berdasarkan standar Angka Kecukupan Gizi (AKG) Kemenkes.
+NutriSi adalah sebuah platform berbasis web yang dirancang untuk mendukung standardisasi porsi gizi dalam program nasional Makan Bergizi Gratis (MBG). Dengan memanfaatkan teknologi Computer Vision, sistem ini mampu melakukan pemindaian otomatis (Scan) terhadap foto menu makanan dalam *ompreng* untuk mengevaluasi kelayakan gizi makro secara real-time berdasarkan standar Angka Kecukupan Gizi (AKG) Kemenkes.
 
 ---
 
